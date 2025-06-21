@@ -10,11 +10,11 @@ Goals and Use Cases :
 -Enable users to share their wishlists with friends or family.
 
 ##  Features
-- Compare products across different sellers
-- Add/remove products from your wishlist
-- View product details, images, and prices
-- User authentication and profile management
-- Shareable wishlists
+- Compare products across different sellers.
+- Add/remove products from your wishlist.
+- View product details, images, and prices.
+- User authentication and profile management.
+- Shareable wishlists.
 
 
 ##  Tech Stack
